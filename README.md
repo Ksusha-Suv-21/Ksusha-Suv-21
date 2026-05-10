@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Kseniia 👋
 
-<!--
-**Ksusha-Suv-21/Ksusha-Suv-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer focused on building responsive web applications using React and TypeScript.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- JavaScript
+- Redux Toolkit
+- React Router
+- REST API
+- Axios
+- SCSS / CSS Modules
+- Git
+- Vite
+
+## Featured Projects
+
+### Blog Platform
+Frontend blog application with routing, authentication and API integration.
+
+### Aviasales
+Flight search application with filtering and responsive UI.
+
+### Movies App
+Movie search app using external REST API.
+
+### Todo App
+Task management application with CRUD functionality.
+
+## Currently Improving
+
+- Frontend architecture
+- Responsive UI
+- State management
+- API integration
+- Testing
+
+## Contacts
+
+- Email: your_email
+- Telegram: @ksusha_bri
